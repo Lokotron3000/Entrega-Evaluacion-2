@@ -1,0 +1,92 @@
+#inicio{
+    background-image: url(../img/dragon-scales.png);
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    border: 2px solid #570264;
+    opacity: 95%;
+}
+
+carrusel{
+    border: 2px solid #570264;
+}
+
+.my-custom-button{
+    position: absolute;
+    bottom: 25px; 
+    right: 20px; 
+}
+
+h5{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+
+.programadores{
+    background-image: url(../img/dragon-scales.png);
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+}
+
+.si{
+    background-image: url(../img/dragon-scales.png);;
+    background-size: cover;
+    background-position: center;
+    color: #330055;
+}
+
+#final{
+    background-image: url(../img/dragon-scales.png);;
+    color: aliceblue;
+    padding: 20px;
+    background-size: cover;
+    background-position: center;
+
+}
+
+h6{
+    background-image: url(../img/dragon-scales.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.quienes-somos-primer-texto{
+    background-image: url(../img/dragon-scales.png);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+.quienes-somos-segundo-texto{
+    padding: 20px;
+}
+
+.quienes-somos-tercer-texto{
+    background-image: url(../img/dragon-scales.png);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+#foto{
+    width: 100%;
+    border: 2px solid black;
+    image-rendering: crisp-edges;
+}
+
+body{
+    background-image: url(../img/dragon-scales.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.contactanos{
+    color: white;
+}
